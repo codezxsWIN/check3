@@ -1,0 +1,10 @@
+flask
+flask-cors
+sqlalchemy
+psycopg2-binary
+apscheduler
+openai
+python-dotenv
+pytz
+requests
+faster-whisper
